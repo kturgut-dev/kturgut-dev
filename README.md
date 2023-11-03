@@ -4,9 +4,9 @@
 - I would like to share with you the small projects I have created in this account.
 
 - # Experiences Languages
-- C# -> ★★★☆☆
+- C# -> ★★★★★
 - JavaScript -> ★★★★☆
-- PHP -> ★★★★☆
+- PHP -> ★★★☆☆
 
 - # Experiences Frameworks
 - Codeigniter -> ★★★☆☆
